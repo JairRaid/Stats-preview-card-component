@@ -1,6 +1,6 @@
 :root {
   --ff-base:
-    "Inter", , system-ui, -apple-system, "Segoe UI", BlinkMacSystemFont,
+    "Inter", system-ui, -apple-system, "Segoe UI", BlinkMacSystemFont,
     sans-serif;
 
   --ff-lexend-deca: "Lexend Deca", sans-serif;
@@ -131,7 +131,7 @@ body {
 
 h1,
 .highlight {
-  font: var(--fw-bold) 28px / var(--lh-125) sans-serif;
+  font: var(--fw-bold) 1.75rem / var(--lh-125) sans-serif;
 }
 
 h1,
