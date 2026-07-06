@@ -21,13 +21,13 @@
   --ls-1: 0.0625rem;
 
   --spacing-0: 0;
-  --spacing-100: 8px;
-  --spacing-300: 24px;
-  --spacing-400: 32px;
-  --spacing-500: 40px;
-  --spacing-800: 64px;
-  --spacing-900: 72px;
-  --spacing-1000: 80px;
+  --spacing-100: 0.5rem;
+  --spacing-300: 1.5rem;
+  --spacing-400: 2rem;
+  --spacing-500: 2.5rem;
+  --spacing-800: 4rem;
+  --spacing-900: 4.5rem;
+  --spacing-1000: 5rem;
 
   --transition: 180ms ease;
 }

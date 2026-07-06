@@ -42,7 +42,7 @@ Your users should be able to:
 
 ### What I learned
 
-I learned to use the property object-fit by doing this project.
+I learned to use the property `object-fit:cover` by doing this project.
 
 ## Author
 
