@@ -170,7 +170,7 @@ img {
 }
 
 .card-title + p {
-  font: var(--fw-regular) 15px / var(--lh-165) sans-serif;
+  font: var(--fw-regular) 0.9375rem / var(--lh-165) sans-serif;
   opacity: 0.75;
 
   margin-block-start: 0.5rem;
